@@ -10,3 +10,6 @@ body {
   max-width: 1000px;
   margin: 0 auto;
 }
+.footer {
+  background: #000;
+}
